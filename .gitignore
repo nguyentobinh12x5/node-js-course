@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+# server.cert and server.key 
+server.cert
+server.key
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
